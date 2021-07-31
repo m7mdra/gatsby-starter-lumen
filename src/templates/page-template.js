@@ -23,10 +23,11 @@ const PageTemplate = ({ data }: Props) => {
 
   return (
     <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImageUrl} >
-      <Sidebar />
       <Page title={pageTitle}>
         <div dangerouslySetInnerHTML={{ __html: pageBody }} />
       </Page>
+      <Sidebar />
+
     </Layout>
   );
 };

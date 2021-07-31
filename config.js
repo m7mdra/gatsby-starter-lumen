@@ -1,33 +1,33 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://m7mdra.sd',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Mohammed Elshiekh',
+  subtitle: 'Software Engineer - Mobile',
+  copyright: 'هذه المدونة تم تصميمها باستخدام برمجيات مفتوحة المصدر, لذلك كل شيئ حتى الحتوى متوفر تحت رخصة CC0',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 6,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'المدونة',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'عني',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'تواصل معي',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Mohammed Elshiekh',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software Engineer - Mobile',
     contacts: {
       email: '',
       facebook: '#',

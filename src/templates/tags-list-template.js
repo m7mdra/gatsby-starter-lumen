@@ -13,7 +13,6 @@ const TagsListTemplate = () => {
 
   return (
     <Layout title={`Tags - ${title}`} description={subtitle}>
-      <Sidebar />
       <Page title="Tags">
         <ul>
           {tags.map((tag) => (
@@ -25,6 +24,8 @@ const TagsListTemplate = () => {
           ))}
         </ul>
       </Page>
+      <Sidebar />
+
     </Layout>
   );
 };

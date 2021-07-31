@@ -31,7 +31,6 @@ const CategoryTemplate = ({ data, pageContext }: Props) => {
 
   return (
     <Layout title={pageTitle} description={siteSubtitle}>
-      <Sidebar />
       <Page title={category}>
         <Feed edges={edges} />
         <Pagination
@@ -41,6 +40,8 @@ const CategoryTemplate = ({ data, pageContext }: Props) => {
           hasNextPage={hasNextPage}
         />
       </Page>
+      <Sidebar />
+
     </Layout>
   );
 };
