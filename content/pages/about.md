@@ -3,7 +3,7 @@ template: page
 title: عني
 slug: about
 socialImage: /media/image-2.jpg
-draft: true
+draft: false
 ---
 > ### انا محمد الشيخ
 >
