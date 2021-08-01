@@ -18,10 +18,6 @@ module.exports = {
     {
       label: 'عني',
       path: '/pages/about'
-    },
-    {
-      label: 'تواصل معي',
-      path: '/pages/contacts'
     }
   ],
   author: {

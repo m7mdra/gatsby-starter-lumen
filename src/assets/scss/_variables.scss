@@ -5,8 +5,8 @@
 
 // Colors
 $color-base: #222;
-$color-primary: #5D93FF;
-$color-secondary: #F7A046;
+$color-primary: #0038a7;
+$color-secondary: #750505;
 
 $color-white: #FFF;
 $color-gray: lighten($color-base, 40%);
@@ -14,10 +14,10 @@ $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
 
 // Typographic
-$typographic-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+$typographic-font-family: cairo;
 
 $typographic-root-font-size: 100;
-$typographic-base-font-size: 16px;
+$typographic-base-font-size: 18px;
 $typographic-small-font-size: 14px;
 
 $typographic-base-line-height: 1.625;
