@@ -1,10 +1,10 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: اول تدوينة
+date: "2021-08-01T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "perfecting-the-art-of-perfection"
-category: "Design Inspiration"
+slug: "first-blog"
+category: "عام"
 tags:
   - "Handwriting"
   - "Learning to write"
