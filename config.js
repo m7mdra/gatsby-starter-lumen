@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://m7mdra.sd',
   pathPrefix: '/',
   title: 'Mohammed Elshiekh',
-  subtitle: 'Software Engineer - Mobile',
+  subtitle: 'موقع شخصي ومدونة',
   copyright: 'هذه المدونة تم تصميمها باستخدام برمجيات مفتوحة المصدر, لذلك كل شيئ حتى المحتوى متوفر تحت رخصة CC0',
   disqusShortname: 'm7mdra',
   postsPerPage: 6,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Mohammed Elshiekh',
     photo: '/photo.jpg',
-    bio: 'Software Engineer - Mobile',
+    bio: 'Software Engineer - Mobile (Android,iOS,Flutter)',
     contacts: {
       email: '',
       facebook: '',
