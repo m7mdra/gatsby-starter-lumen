@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://m7mdra.sd',
   pathPrefix: '/',
-  title: 'Mohammed Elshiekh',
+  title: 'Mohammed Elshiekh موقع شخصي ومدونة',
   subtitle: 'موقع شخصي ومدونة',
   copyright: 'هذه المدونة تم تصميمها باستخدام برمجيات مفتوحة المصدر, لذلك كل شيئ حتى المحتوى متوفر تحت رخصة CC0',
   disqusShortname: 'm7mdra',
